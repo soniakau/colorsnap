@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/colorsnap/static/css/main.073c9b0a.css",
+    "main.js": "/colorsnap/static/js/main.7950ce20.js",
+    "static/js/787.a5503bcf.chunk.js": "/colorsnap/static/js/787.a5503bcf.chunk.js",
+    "static/media/logo.svg": "/colorsnap/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/colorsnap/index.html",
+    "main.073c9b0a.css.map": "/colorsnap/static/css/main.073c9b0a.css.map",
+    "main.7950ce20.js.map": "/colorsnap/static/js/main.7950ce20.js.map",
+    "787.a5503bcf.chunk.js.map": "/colorsnap/static/js/787.a5503bcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7950ce20.js"
+  ]
+}
