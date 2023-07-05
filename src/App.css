@@ -1,21 +1,27 @@
+/* * {background-color: #393e47} */
+* {font-family: 'Courier New'}
+* {font-weight: bold}
+
+/* Set background color here */
 .App {
+  background-color: #4A55A2;
   text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
+  margin-top: 5vmin;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 10s linear;
   }
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  min-height: 5vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -24,9 +30,39 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.App-title {
+  /* font-family: Georgia, 'Times New Roman', Times, serif; */
+  font-family: 'Courier New';
+  font-weight: bold;
+  font-size: 7vmin;
+  margin: 2vmin;
 }
+
+.container {
+  color: white;
+  width: 100vw;
+  margin: 0 auto;
+}
+
+.App-upload {
+  background-color: #7895CB;
+  width: 50vw;
+  height: 100vh;
+  float: left;
+}
+
+.App-render {
+  background-color: #A0BFE0;
+  width: 50vw;
+  height: 100vh;
+  float: right;
+}
+
+.section-title{
+  font-size: calc(10px + 2vmin);
+}
+
+
 
 @keyframes App-logo-spin {
   from {
